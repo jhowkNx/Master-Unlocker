@@ -46,3 +46,8 @@
 -   NightClub
       - NightClub Max Popularity
       - Unlock NightClub Awards
+
+-   Mental State
+    -  Maximum
+    -  Half
+    -  Remove
