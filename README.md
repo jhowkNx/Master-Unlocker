@@ -43,6 +43,6 @@
     -   Unlock all Arena Wars Trophy and Toys possible with stats
     -   Unlock Arena Wars Clothing
 
-    -   NightClub
-            -  NightClub Max Popularity
-            -  Unlock NightClub Awards
+-   NightClub
+      - NightClub Max Popularity
+      - Unlock NightClub Awards
