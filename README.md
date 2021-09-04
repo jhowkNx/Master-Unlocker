@@ -8,6 +8,6 @@
 -   Allow me to use XMAS Clothing
     - Allows you to wear Christmas clothes even if it's not the Christmas season
 
--    Bad Sport Manager
+-   Bad Sport Manager
     - Become a bad sport
     - Remove from bad sport
