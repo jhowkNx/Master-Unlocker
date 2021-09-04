@@ -34,3 +34,15 @@
 -   XMAS Utilities
     - Unlock XMAS Liveries
     - Unlock XMAS Content
+
+-   Unlock Hats and many Shirts
+
+-   Refill Inventory
+
+-   Arena Wars DLC
+    -   Unlock all Arena Wars Trophy and Toys possible with stats
+    -   Unlock Arena Wars Clothing
+
+    -   NightClub
+            -   NightClub Max Popularity
+            -   Unlock NightClub Awards
