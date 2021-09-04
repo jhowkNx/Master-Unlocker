@@ -44,5 +44,5 @@
     -   Unlock Arena Wars Clothing
 
     -   NightClub
-            -   NightClub Max Popularity
-            -   Unlock NightClub Awards
+            -  NightClub Max Popularity
+            -  Unlock NightClub Awards
