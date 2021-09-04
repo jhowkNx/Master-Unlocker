@@ -51,3 +51,43 @@
     -  Maximum
     -  Half
     -  Remove
+
+-   Arcade Unlockers
+    -  Unlock Arcade Trophys and Toys
+    -  Unlock Arcade Clothing
+
+-   Add cosmetic money to the Office (Floor)
+
+-   Bypass LSC dailly sell limit (Vehicles)
+
+-   Unlock Don't Cross the Line Tee
+
+-   Unlock Shotaro
+
+-   Summer 2020 DLC
+    -  Unlock Summer 2020 Awards
+    -  Unlock Summer DLC Clothing
+
+-   Unlock Yacht Missions
+
+-   Alien Tatto illuminate (Rare)
+
+-   Skip Lammar Missions to the last one
+
+-   Unlock Flight School Awards (Not working)
+
+-   Fast Run & Reload
+
+-   Unlock some vehicles trade price
+
+-   Unlock All Contacts
+
+-   Unlock Vanilla Unicorn Award
+
+-   Bunker Options
+    -  Trigger Alien Egg Mission (rare)
+    -  Unlock Shooting Range Rewards (not working)
+
+-   Unlock All Daily Objectives Awards
+
+-   Remove Orbitall Cannon (Risky) [The only option that can offer you risks if you abuse]
