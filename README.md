@@ -1,6 +1,7 @@
 # Welcome to Master Unlocker
 
-:warning: This page is constantly being updated.
+## :warning: The feature list is not complete atm.
+
 ### Master Unlocker is a popular and exclusive script for the 2Take1 Menu.
 ### Its function is to unlock, get the best and rarest items in the game. Even those who have not yet been officially released.
 
