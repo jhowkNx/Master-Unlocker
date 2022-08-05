@@ -8,6 +8,47 @@
 ### Check compatibility with the current version of GTA Online
    - The function detects if the current version of Master Unlocker is compatible with the GTA Online you are playing.
 
+### Character Statistics Manager
+   - Character Date Manager
+      - Modify Character created date
+      - Modify Last ranked up date
+      - Show first time in GTA Online
+      - Edit first time in GTA Online
+ 
+   - Time spent in GTA Online
+   
+     - Custom
+      - 30 Days
+      - 200 Days
+      - 365 Days
+      - 2 Years
+      - 3 Years
+      - 4 Years
+      - 5 Years
+      
+   - Time played in first person
+     - Custom
+     - 15 days
+     - 150 days
+     - 1 year  
+ 
+   - Time played as Character
+   
+     - Custom
+     - 30 days
+     - 200 days
+     - 365 days
+     - 2 years
+     - 3 years
+     - 4 years
+     - 5 years
+
+   - Time spend on Deathmach
+   
+     - Custom
+     - 20 Days
+     - 80 days
+     - 150 days   
    ### Allow me to use XMAS Clothing
    - Allows you to wear Christmas clothes even if it's not the Christmas season
 
