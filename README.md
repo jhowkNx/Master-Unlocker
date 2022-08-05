@@ -5,8 +5,8 @@
 
 ## The following options are in the script
 
-   ### Check compatibility with the current version of GTA Online
-  - The function detects if the current version of Master Unlocker is compatible with the GTA Online you are playing.
+### Check compatibility with the current version of GTA Online
+     he function detects if the current version of Master Unlocker is compatible with the GTA Online you are playing.
 
    ### Allow me to use XMAS Clothing
    - Allows you to wear Christmas clothes even if it's not the Christmas season
