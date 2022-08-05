@@ -1,93 +1,64 @@
-# Master Unlocker
+# Welcome to Master Unlocker
 
-### Master Unlocker was originally created within Heist Control. It is currently set aside for better security and to be able to be updated more frequently when needed.
-### The main function of Master Unlocker is to unlock exclusive items like clothes, cars, vehicles livery and much more.
+### Master Unlocker is a popular and exclusive script for the 2Take1 Menu.
+### Its function is to unlock, get the best and rarest items in the game. Even those who have not yet been officially released.
 
-### The available options are:
+## The following options are in the script
 
--   Allow me to use XMAS Clothing
-    - Allows you to wear Christmas clothes even if it's not the Christmas season
+   ### Check compatibility with the current version of GTA Online
+  - The function detects if the current version of Master Unlocker is compatible with the GTA Online you are playing.
 
--   Bad Sport Manager
-    - Become a bad sport
-    - Remove from bad sport
+   ### Allow me to use XMAS Clothing
+   - Allows you to wear Christmas clothes even if it's not the Christmas season
 
--   LS Tuners DLC
-    - LS Tuners Max RP Unlocker (MAX lvl at Car Meet)
-    - Unlock Drip Fed Vehicles (You will get instantly access to unreleased vehicles and be able to buy them)
-    - Unlock Drip Fed Outfits (Unlock unreleased outfits, clothes, etc)
-    - Unlock Awards
-    - Unlock Vehicle Prize (from Car Meet)
+   ### Bad Sport Manager
+   - Become a bad sport
+   - Remove from bad sport
 
--   XP Multiplier (x0 - x5000)
+   ### LS Tuners DLC
+   - LS Tuners Max RP Unlocker (MAX lvl at Car Meet)
+   - Unlock Drip Fed Vehicles (You will get instantly access to unreleased vehicles and be able to buy them)
+   - Unlock Drip Fed Outfits (Unlock unreleased outfits, clothes, etc)
+   - Unlock Awards
+   - Unlock Vehicle Prize (from Car Meet)
 
--   Valentine Unlocks (Unlock items from this event)
+   ### XP Multiplier (x0 - x5000)
 
--   Independence Day Unlocks (Unlock items from this event)
-
--   Halloween Unlocks (Unlock items from this event)
-
--   Unlock Returning Player Bonus + Up-N-Atomizer Festive Skin
-
--   Cayo Perico Unlocks
-
--   XMAS Utilities
-    - Unlock XMAS Liveries
-    - Unlock XMAS Content
-
--   Unlock Hats and many Shirts
-
--   Refill Inventory
-
--   Arena Wars DLC
-    -   Unlock all Arena Wars Trophy and Toys possible with stats
-    -   Unlock Arena Wars Clothing
-
--   NightClub
-      - NightClub Max Popularity
-      - Unlock NightClub Awards
-
--   Mental State
-    -  Maximum
-    -  Half
-    -  Remove
-
--   Arcade Unlockers
-    -  Unlock Arcade Trophys and Toys
-    -  Unlock Arcade Clothing
-
--   Add cosmetic money to the Office (Floor)
-
--   Bypass LSC dailly sell limit (Vehicles)
-
--   Unlock Don't Cross the Line Tee
-
--   Unlock Shotaro
-
--   Summer 2020 DLC
-    -  Unlock Summer 2020 Awards
-    -  Unlock Summer DLC Clothing
-
--   Unlock Yacht Missions
-
--   Alien Tatto illuminate (Rare)
-
--   Skip Lammar Missions to the last one
-
--   Unlock Flight School Awards (Not working)
-
--   Fast Run & Reload
-
--   Unlock some vehicles trade price
-
--   Unlock All Contacts
-
--   Unlock Vanilla Unicorn Award
-
--   Bunker Options
-    -  Trigger Alien Egg Mission (rare)
-    -  Unlock Shooting Range Rewards (not working)
-
--   Unlock All Daily Objectives Awards
-
--   Remove Orbitall Cannon (Risky) [The only option that can offer you risks if you abuse]
+   ### Valentine Unlocks (Unlock items from this event)
+   ### Independence Day Unlocks (Unlock items from this event)
+   ### Halloween Unlocks (Unlock items from this event)
+   ### Unlock Returning Player Bonus + Up-N-Atomizer Festive Skin
+   ### Cayo Perico Unlocks
+   ### XMAS Utilities
+   - Unlock XMAS Liveries
+   - Unlock XMAS Content
+   ### Unlock Hats and many Shirts
+   ### Refill Inventory
+   ### Arena Wars DLC
+   - Unlock all Arena Wars Trophy and Toys possible with stats
+   - Unlock Arena Wars Clothing
+   ### NightClub
+   - NightClub Max Popularity
+   - Unlock NightClub Awards
+   ### Mental State
+   -  Maximum
+   -  Half
+   -  Remove
+   ### Arcade Unlockers
+   -  Unlock Arcade Trophys and Toys
+   -  Unlock Arcade Clothing
+   ### Add cosmetic money to the Office (Floor)
+   ### Unlock Don't Cross the Line Tee
+   ### Unlock Shotaro
+   ### Summer 2020 DLC
+   -  Unlock Summer 2020 Awards
+   -  Unlock Summer DLC Clothing
+   ### Unlock Yacht Missions
+   ### Alien Tatto illuminate (Rare)
+   ### Skip Lammar Missions to the last one
+   ### Fast Run & Reload
+   ### Unlock some vehicles trade price
+   ### Unlock All Contacts
+   ### Unlock Vanilla Unicorn Award
+   ### Unlock All Daily Objectives Awards
+   ### Remove Orbitall Cannon (Risky) [The only option that can offer you risks if you abuse]
