@@ -4,17 +4,17 @@
 
 ## :warning: Some features are only available for the donor version
 
-## The following options are in the script (Some limited to donors)
+## The following options are in the script
 ### Thanks to @Rimmuru for sharing the updated/complete list of features
 
-- Casino Options
+- Casino Options [DONOR]
 	- Acquire Chips (TAB)
 	- Trade Chips (TAB)
 -  Loop $750K + 500K
 	- Start 750K
 	- Start 500K
 - Cash/Chips
-	-  Sell Personal Vehicle (7.9M)
+	-  Sell Personal Vehicle (7.9M) [DONOR]
 	- $ Removal by Ballistic Equipment Kit
 - Related to Names
 	- Change Archenemy (Name)
@@ -603,7 +603,7 @@
 	- Get Custom Crates by a single purchase
 - Your Warehouses | Crates
 
-- 6M Loop
+- 6M Loop [DONOR]
 	- Instant Restock
 	- 6M LOOP [EXTREME]
 	- 6M LOOP [NORMAL]
