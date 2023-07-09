@@ -187,17 +187,17 @@
 	- Become a bad sport
 	- Remove from bad sport
 - RP Multiplier
-	-RP 0
-	-RP x0.5
-	-RP x1.0 (Default)
-	-RP x1.5
-	-RP x2
-	-RP x3
-	-RP x4
-	-RP x5
-	-RP x10
-	-RP x50
-	-RP x100
+	- RP 0
+	- RP x0.5
+	- RP x1.0 (Default)
+	- RP x1.5
+	- RP x2
+	- RP x3
+	- RP x4
+	- RP x5
+	- RP x10
+	- RP x50
+	- RP x100
 - Character
 	- Bypass SP Prologue
 	- Wipe: Character | Stat | Rank | Vehicle
@@ -394,17 +394,17 @@
 	- [STEAL] Howard NX-25 (Stunts)
 	- [STEAL] V-65 Molotok (Air Ambulance)
 - Sell Cargo
-	-[SELL] Havok
-	-[SELL] Seabreeze
-	-[SELL] Mogul
-	-[SELL] FH-1 Hunter
-	-[SELL] RM-10 Bombushka
-	-[SELL] Alpha-Z1
-	-[SELL] Skylift
-	-[SELL] Cargobob
-	-[SELL] Ultralight
+	- [SELL] Havok
+	- [SELL] Seabreeze
+	- [SELL] Mogul
+	- [SELL] FH-1 Hunter
+	- [SELL] RM-10 Bombushka
+	- [SELL] Alpha-Z1
+	- [SELL] Skylift
+	- [SELL] Cargobob
+	- [SELL] Ultralight
 - Mission Selector
-	-[PREP/STEAL] Get Mogul
+	- [PREP/STEAL] Get Mogul
 - Air Cargo
 	- AirFreight App
 	- Unlimited AirCargo App Control
@@ -416,27 +416,27 @@
 	- Remove Sell Cooldown
 	- AirCargo Total Earning
 - Steal Missions
-	-[Resupply] : Alien Egg (Rare)
-	-Steal Supplies : Altruist Camp
-	-Steal Supplies : The Dune Buggy
-	-Steal Supplies : Police Riot
-	-Steal Supplies : Mine
-	-Steal Supplies : The Technical Aqua
-	-Steal Supplies : Rival Operation
-	-Steal Supplies : Zancudo River
-	-Steal Supplies : LSIA
-	-Steal Supplies : Merryweather HQ
-	-Steal Supplies : Training Ground (Tank)
-	-Steal Supplies : Del Perro Beach
-	-Steal Supplies : Cholla Springs Avenue
-	-Steal Supplies : Chupacabra Street
+	- [Resupply] : Alien Egg (Rare)
+	- Steal Supplies : Altruist Camp
+	- Steal Supplies : The Dune Buggy
+	- Steal Supplies : Police Riot
+	- Steal Supplies : Mine
+	- Steal Supplies : The Technical Aqua
+	- Steal Supplies : Rival Operation
+	- Steal Supplies : Zancudo River
+	- Steal Supplies : LSIA
+	- Steal Supplies : Merryweather HQ
+	- Steal Supplies : Training Ground (Tank)
+	- Steal Supplies : Del Perro Beach
+	- Steal Supplies : Cholla Springs Avenue
+	- Steal Supplies : Chupacabra Street
 - Sell Missions
-	-Sell Weapons: HVY Insurgent Pick Up
-	-Sell Weapons: HVY Insurgent (Normal)
-	-Sell Weapons: Marshall
-	-Sell Weapons: HVY Insurgent Pick Up (Custom)
-	-Sell Weapons: Phantom Wedge
-	-Sell Weapons: Dune FAV
+	- Sell Weapons: HVY Insurgent Pick Up
+	- Sell Weapons: HVY Insurgent (Normal)
+	- Sell Weapons: Marshall
+	- Sell Weapons: HVY Insurgent Pick Up (Custom)
+	- Sell Weapons: Phantom Wedge
+	- Sell Weapons: Dune FAV
 - Bunker
 	- Bunker Multiplier: 3.0
 	- Maximum Capacity
