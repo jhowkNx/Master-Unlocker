@@ -3,9 +3,9 @@
 ### Master Unlocker is a popular and exclusive script for the 2Take1 Menu.
 
 ## :warning: Some features are only available for the donor version
-### Thank to @Rimmuru for sharing the updated/complete list of features
 
 ## The following options are in the script (Some limited to donors)
+### Thanks to @Rimmuru for sharing the updated/complete list of features
 
 - Casino Options
 	- Acquire Chips (TAB)
