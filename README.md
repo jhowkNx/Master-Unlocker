@@ -5,7 +5,7 @@
 ## :warning: Some features are only available for the donor version
 
 ## The following options are in the script
-### Thanks to @Rimmuru for sharing the updated/complete list of features
+### Thanks to @Rimmuru for sharing the updated feature list
 
 - Casino Options [DONOR]
 	- Acquire Chips (TAB)
@@ -83,9 +83,9 @@
 	- 5 Years
 - Time played in first person
 	- Custom Value
-	-15 Days
-	-150 Days
-	-1 Year
+	- 15 Days
+	- 150 Days
+	- 1 Year
 - Time played as Character
 	- Custom Value
 	- 30 Days
