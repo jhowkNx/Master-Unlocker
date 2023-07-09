@@ -652,7 +652,6 @@
 - VIP/CEO/MC
 	- Allow Jobs/Missions on private session
 	- Trigger Resupply (Acid/Bunker/MC)
--FF780AF0#≈ Master Unlocker Donor Edition [v1.62]
+- Others
 	- Save Settings
-	-FF008C14#≈ MU Discord link
-   ### Remove Orbitall Cannon (Risky) [The only option that can offer you risks if you abuse]
+  	- Remove Orbitall Cannon
